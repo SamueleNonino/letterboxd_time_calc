@@ -5,8 +5,8 @@ This is the first python program i wrote, so it may be broken and bugged
 
 For it to run you will need : requests, BeautifulSoup and lxml so do this 
 
-
-`pip install requests
+```
 pip install requests
 pip install requests
-`
+pip install requests
+```
