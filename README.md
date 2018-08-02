@@ -12,5 +12,5 @@ pip install BeautifulSoup
 pip install lxml
 ```
 
-then cd in the dir where is saved and run it 
-
+then cd in the dir you extract it and then run it 
+ 
